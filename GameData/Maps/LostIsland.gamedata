@@ -1,7 +1,7 @@
 ﻿{
 	"Application": "ark",
-	"Version": "1.1.1",
-	"Created": "2021-12-16T09:25:00.0000000Z",
+	"Version": "1.2.2",
+	"Created": "2022-01-01T15:10:00.0000000Z",
 	"Mod": "LostIsland",
 	"Creatures": [{
 			"NameTag": "Amargasaurus",
@@ -54,6 +54,27 @@
 			"IsHarvestable": false,
 			"ClassName": "PrimalItemTrophy_BossDinopithecus_Hard_C",
 			"Description": "Dinopithecus Trophy (Alpha)",
+			"Mod": "LostIsland"
+		},
+		{
+			"Category": "Skin",
+			"IsHarvestable": false,
+			"ClassName": "PrimalItemSkin_Costume_Dinopithecus_C",
+			"Description": "Dinopithecus Costume Skin",
+			"Mod": "LostIsland"
+		},
+		{
+			"Category": "Structure",
+			"IsHarvestable": false,
+			"ClassName": "PrimalItemStructure_Flag_BossDinopithecus_C",
+			"Description": "Dinopithecus King Flag",
+			"Mod": "LostIsland"
+		},
+		{
+			"Category": "Resource",
+			"IsHarvestable": false,
+			"ClassName": "PrimalItemResource_AmargaSpike_C",
+			"Description": "Amarga Spike",
 			"Mod": "LostIsland"
 		}
 	],
